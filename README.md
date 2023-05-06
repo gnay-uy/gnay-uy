@@ -1,3 +1,5 @@
-i write garbage code
+# my profile
 
-python, javascript
+i write garbage code in **python** and javascript
+
+![](https://www.codewars.com/users/gnayuy/badges/large)

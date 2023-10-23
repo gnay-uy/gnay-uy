@@ -1,5 +1,5 @@
 # About Me
-Year 1 IT student at Ngee Ann Polytechnic. My hobbies include breathing, eating and sleeping. Currently learning C#, JavaScript, SQL and NASM.
+Year 1 IT student at Ngee Ann Polytechnic. My hobbies include breathing, eating and sleeping. 
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

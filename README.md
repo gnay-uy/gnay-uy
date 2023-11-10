@@ -33,4 +33,4 @@ Year 1 IT student at Ngee Ann Polytechnic. My hobbies include breathing, eating 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ### My Codewars Profile
-![](https://www.codewars.com/users/gnayuy/badges/large)](https://www.codewars.com/users/gnayuy)
+[![](https://www.codewars.com/users/gnayuy/badges/large)](https://www.codewars.com/users/gnayuy)

@@ -1,5 +1,5 @@
 ## Hello World!
-I'm Yu Yang, a year 1 IT student at Ngee Ann. I have interests in AI, malware development and software engineering.
+I'm Yu Yang, a year 1 IT student at Ngee Ann. I have interests in AI, malware development and software engineering. I'll be playing at HackBash Finals & picoCTF!
 
 ## Skills
 Some languages I can use are **Python, C#, JavaScript, C++, x86 Assembly, Lua and PHP**. I've tried **Go** for a short while too!

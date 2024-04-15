@@ -1,8 +1,8 @@
 ## Hello World!
-I'm Yu Yang, a year 1 IT student at Ngee Ann. I have interests in AI, malware development and software engineering. Currently playing picoCTF!
+I'm Yu Yang, a year 1 IT student at Ngee Ann. I have interests in AI, malware development and software engineering. I'll be playing CDDC!
 
 ## Skills
-Some languages I can use are **Python, C#, JavaScript, C++, x86 Assembly, Lua and PHP**. I've tried **Go** for a short while too!
+Some languages I can use are **Python, C#, JavaScript, C++, x86 Assembly, Java, Lua and PHP**. I've tried **Go** for a short while too!
 
 Within Python, I have some experience with libraries, mainly **Keras and Tensorflow**.
 

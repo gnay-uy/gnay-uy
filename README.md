@@ -1,6 +1,6 @@
-Second-year Information Technology student at Ngee Ann Poly.
+year 2 it student @ np
 
-I like malware and dsa
+i like malware dev, ai/machine learning, competitive programming, data structures&algorithms, reverse engineering, web&binary exploitation, writing ctf challs, and others
 
 
 ### My Codewars Profile

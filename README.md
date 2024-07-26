@@ -2,6 +2,19 @@ i eat legoes
 
 i also study information technology at ngee ann polytechnic
 
+#### links
+
+</hr>
+
+<sub> 
+
+[leetcode](https://leetcode.com/u/gnayuy/) </br>
+
+[codewars](https://www.codewars.com/users/gnayuy) </br>
+
+[ctftime](https://ctftime.org/user/191939) </br>
+</sub>
+
 
 #### words of wisdom
 

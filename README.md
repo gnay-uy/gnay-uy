@@ -1,4 +1,4 @@
-### hi i eat legoes
+### hi i eat legos
 <sub>
 
 i also study information technology at ngee ann polytechnic

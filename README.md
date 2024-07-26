@@ -1,12 +1,7 @@
-### hi i eat legos
-<sub>
-
+## hi i eat legos
 i also study information technology at ngee ann polytechnic
-</sub>
 
-### links
-<sub> 
-
+## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>
 
 [codewars](https://www.codewars.com/users/gnayuy) <br>
@@ -14,17 +9,11 @@ i also study information technology at ngee ann polytechnic
 [ctftime](https://ctftime.org/user/191939) <br>
 
 
-</sub>
-
-### contact
-<sub>
-
+## contact
 i now have an email at <contact@warmliquidsh.art>, but feel free to still try *🦅 pigeon mail* or *🔮 telekinesis*. alternatively, reach out to me on my [linkedin](https://www.linkedin.com/in/gnayuy/) to drop me a message. 
-</sub>
+
 
 #### words of wisdom
-<sub>
-
 🧠 if god didn't want us to eat rocks, why are they so crunchy and yummy <br>
 
 💪 did you know? people lift heavy in the gym but its actually easier to lift lighter <br>
@@ -37,7 +26,4 @@ i now have an email at <contact@warmliquidsh.art>, but feel free to still try *�
 
 💻 i use arch without wearing kneesocks
 
-<br><br>got more? feel free to send me suggestions! ^.^
-</sub>
-
-
+<sub>got more? feel free to send me suggestions! ^.^</sub>

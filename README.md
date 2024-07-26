@@ -19,7 +19,7 @@ i also study information technology at ngee ann polytechnic
 ### contact
 <sub>
 
-i don't have an email, so try *🦅 pigeon mail* or *🔮 telekinesis*. alternatively, reach out to me on my [linkedin](https://www.linkedin.com/in/gnayuy/) to drop me a message.
+i now have an email at <contact@warmliquidsh.art>, but feel free to still try *🦅 pigeon mail* or *🔮 telekinesis*. alternatively, reach out to me on my [linkedin](https://www.linkedin.com/in/gnayuy/) to drop me a message.
 </sub>
 
 #### words of wisdom

@@ -1,8 +1,8 @@
-### hi, im gnay uy 
-
-i eat legoes
+### hi i eat legoes
+<sub>
 
 i also study information technology at ngee ann polytechnic
+</sub>
 
 ### links
 <sub> 

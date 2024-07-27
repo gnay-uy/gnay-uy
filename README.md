@@ -1,6 +1,8 @@
 ## hi i eat legos
 i also study information technology at ngee ann polytechnic
 
+do not ask me to fix your printer, i will freeze all of your silverware in a pot.
+
 ## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>
 [codewars](https://www.codewars.com/users/gnayuy) <br>

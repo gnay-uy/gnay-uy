@@ -1,5 +1,5 @@
 ## hi i eat legos
-i also study information technology at ngee ann polytechnic
+information technology student @ np, hobbyist sleeper
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot.
 

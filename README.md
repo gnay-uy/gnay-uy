@@ -1,7 +1,8 @@
-## hi i eat legos
-information technology student @ np, hobbyist sleeper
+## about
+information technology student @ np, brick eater
 
-do not ask me to fix your printer, i will freeze all of your silverware in a pot.
+do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
+i sleep on beds and lift weights with my hands
 
 ## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>
@@ -21,5 +22,6 @@ i now have an email at <contact@warmliquidsh.art>, but feel free to still try *�
 🐞 i make malware but it's polite and friendly trust me <br>
 💻 i use arch without wearing kneesocks <br>
 🎰 it's not addiction you're just mispronouncing dedication <br>
+📏 you should sleep on rulers to accurately measure how long you've slept <br>
 
 <sub>got more? feel free to send me suggestions! ^.^</sub>

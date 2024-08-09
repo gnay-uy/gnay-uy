@@ -19,6 +19,7 @@ i now have an email at <contact@warmliquidsh.art>, but feel free to still try *�
 🚀 i test in production call that user acceptance testing (crowdstrike reference 🤯) <br>
 ♿️ can't shoot yourself in the legs if you don't have any <br>
 🐞 i make malware but it's polite and friendly trust me <br>
-💻 i use arch without wearing kneesocks
+💻 i use arch without wearing kneesocks <br>
+🎰 it's not addiction you're just mispronouncing dedication <br>
 
 <sub>got more? feel free to send me suggestions! ^.^</sub>

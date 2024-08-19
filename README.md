@@ -2,7 +2,7 @@
 information technology student @ np, brick eater
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
-i sleep on beds and lift weights with my hands
+i sleep on weights and lift beds with my hands
 
 ## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>

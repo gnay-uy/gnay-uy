@@ -1,5 +1,6 @@
 ## about
-information technology student @ np, brick eater
+information technology student @ np <br>
+i step on lego bricks as a hobby
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
 i sleep on weights and lift beds with my hands

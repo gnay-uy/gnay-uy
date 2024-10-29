@@ -1,6 +1,6 @@
 ## about
 information technology student @ np <br>
-i step on lego bricks as a hobby
+also an aspiring malware analyst/software engineer
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
 i sleep on weights and lift beds with my hands

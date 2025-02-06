@@ -1,5 +1,5 @@
 ## about
-information technology student @ np <br>
+information technology student @ np, incoming software engineering intern @ somewhere <br>
 also an aspiring malware analyst/software engineer
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>

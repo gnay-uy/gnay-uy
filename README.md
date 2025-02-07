@@ -1,6 +1,6 @@
 ## about
 information technology student @ np, incoming software engineering intern @ somewhere <br>
-also an aspiring malware analyst/software engineer
+~~also an aspiring malware analyst/software engineer~~ i guess i am *temporarily* one soon
 
 do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
 i sleep on weights and lift beds with my hands

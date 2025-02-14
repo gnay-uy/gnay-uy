@@ -1,8 +1,8 @@
 ## about
-information technology student @ np, incoming software engineering intern @ somewhere <br>
-~~also an aspiring malware analyst/software engineer~~ i guess i am *temporarily* one soon
+ctf player @ ssm, incoming software engineering intern @ somewhere <br>
+~~also an aspiring malware analyst/software engineer~~ i guess will be one soon
 
-do not ask me to fix your printer, i will freeze all of your silverware in a pot. <br>
+pwn is love pwn is life <br>
 i sleep on weights and lift beds with my hands
 
 ## links 

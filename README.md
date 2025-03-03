@@ -1,6 +1,5 @@
 ## about
-ctf player @ ssm, incoming software engineering intern @ somewhere <br>
-~~also an aspiring malware analyst/software engineer~~ i guess will be one soon
+ctf player @ ssm, pwn/re main<br>
 
 pwn is love pwn is life <br>
 i sleep on weights and lift beds with my hands

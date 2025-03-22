@@ -1,8 +1,5 @@
 ## about
-ctf player @ ssm, pwn/re main<br>
-
-pwn is love pwn is life <br>
-i sleep on weights and lift beds with my hands
+discovering myself 
 
 ## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>

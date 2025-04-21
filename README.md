@@ -15,6 +15,8 @@ my adventure: https://bof.rip
 [ctftime](https://ctftime.org/user/191939) <br>
 
 ## contact
+my email has been scraped and used as the target of a phishing attack. in an effort to deter further attacks against myself, i have taken steps to protect my email via means of obfuscation.
+
 solve the following rsa problem for my email:
 ```
 c=459422799729493039434523013649174055794104028142602135968851840678946234624004264939261816832

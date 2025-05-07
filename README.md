@@ -7,7 +7,7 @@ my adventure: https://bof.rip
 - windows, mac, kali, proxmox, debian, arch
 - windows api, glibc, tensorflow, keras, pytorch
 - **c(++)**, c#, **python**, **x86-64 asm**, java, js, ts, react, lua
-- neovim, jetbrains, vscode, roblox studio, git, ghidra, ida, gdb/pwndbg, android studio
+- neovim, cmake, jetbrains, vscode, roblox studio, git, ghidra, ida, gdb/pwndbg, android studio
 
 ## links 
 [leetcode](https://leetcode.com/u/gnayuy/) <br>
